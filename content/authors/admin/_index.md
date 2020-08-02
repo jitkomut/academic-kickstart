@@ -18,9 +18,7 @@ organizations:
   url: "http://jitkomut.eng.chula.ac.th/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I received a Ph.D. in Electrical Engineering from University of California, Los Angeles (UCLA) under the supervision of Professor Lieven Vandenberghe in 2010 My study in the U.S. was supported by the Royal Thai government scholarship. At UCLA, I worked in the area of convex optimization and its applications in graphical models of time series.
-
-Currently, I am with Control Systems Research Laboratory (CSRL), Department of Electrical Engineering, Chulalongkorn University, where we refer to ourselves as Chula Engineering. It is the oldest university in Thailand with a beautiful campus located in the downtown Bangkok. I am teaching feedback control laboratory, linear algebra, complex analysis, random processes, system identification, convex optimization, and statistical methods for engineering. My research interests include a broad area of system modelling, statistical learning and numerical methods for optimization problems. 
+bio: I received a Ph.D. in Electrical Engineering from University of California, Los Angeles (UCLA) under the supervision of Professor Lieven Vandenberghe in 2010 My study in the U.S. was supported by the Royal Thai government scholarship. At UCLA, I worked in the area of convex optimization and its applications in graphical models of time series. Currently, I am with Control Systems Research Laboratory (CSRL), Department of Electrical Engineering, Chulalongkorn University, where we refer to ourselves as Chula Engineering. It is the oldest university in Thailand with a beautiful campus located in the downtown Bangkok. I am teaching feedback control laboratory, linear algebra, complex analysis, random processes, system identification, convex optimization, and statistical methods for engineering. My research interests include a broad area of system modelling, statistical learning and numerical methods for optimization problems. 
 
 interests:
   - dynamical models for explaining brain connectivity from fMRI or EEG signals
